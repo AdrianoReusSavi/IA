@@ -1,6 +1,7 @@
 ﻿using IA.Interfaces.Service;
 using IA.Entities;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace IA.Controllers
 {
