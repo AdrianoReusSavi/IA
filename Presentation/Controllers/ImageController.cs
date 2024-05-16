@@ -29,6 +29,7 @@ namespace IA.Controllers
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                
                 return Ok();
             }
         }
