@@ -18,8 +18,8 @@ namespace IA.Configuration
                     Version = "v1",
                     Contact = new OpenApiContact
                     {
-                        Email = "",
-                        Name = "",
+                        Email = "adrianorsavi@gmail.com",
+                        Name = "Adriano Reus Savi",
                     }
 
                 });
